@@ -8,6 +8,7 @@ Grocery Tracker version 1 is the first part of a final project that is intended 
 Software: Intellij
 Language: Java
 Build OS: Gradle
-
+File Pathway For UserInterface: /src/main/java/org/example/GroceryItemApp.java /
+File Pathway For Interface Blueprint:  
 
 
