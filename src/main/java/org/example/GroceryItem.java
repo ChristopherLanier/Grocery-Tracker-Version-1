@@ -25,7 +25,7 @@ public class GroceryItem {
 
         return isOnSale;
     }
-    //Be cautious when autogenerating getter and constructors. Make sure syntax and structure are consistent
+    
     public GroceryItem(String name, String department, double price, boolean isOnSale) {
         this.name = name;
         this.department = department;
@@ -33,10 +33,7 @@ public class GroceryItem {
         this.isOnSale = isOnSale;
     }
 
-   /* v means void when constructor is generated from test. must input variable name
-     followed by injection impacting price  */
-    //Because the method of behavior prompted the creation of a constructor an injection must follow
-    //to Remember: Constructor inject this (this.property = [variable name]) variable
+   
 
     public void activateSale(double amountOfSale) {
         this.price = this.price*amountOfSale;
