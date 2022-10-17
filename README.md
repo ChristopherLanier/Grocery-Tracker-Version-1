@@ -10,8 +10,8 @@ which contains functionality to have the item "go on sale" and to view the detai
 # Install
 - Software: Intellij
 - Language: Java
--Build OS:  Gradle
--Pathway For UserInterface: /src/main/java/org/example/GroceryItemApp.java/
--Pathway For Interface Blueprint: /src/main/java/org/example/GroceryItem.java 
+- Build OS:  Gradle
+- Pathway For UserInterface: /src/main/java/org/example/GroceryItemApp.java/
+- Pathway For Interface Blueprint: /src/main/java/org/example/GroceryItem.java 
 
 
