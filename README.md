@@ -8,10 +8,10 @@ In this version, a singular item was used to build out code for the user-interfa
 which contains functionality to have the item "go on sale" and to view the details of that item.
 
 # Install
-Software: Intellij
-Language: Java
-Build OS: Gradle
-Pathway For UserInterface: /src/main/java/org/example/GroceryItemApp.java/
-Pathway For Interface Blueprint: /src/main/java/org/example/GroceryItem.java 
+- Software: Intellij
+- Language: Java
+-Build OS:  Gradle
+-Pathway For UserInterface: /src/main/java/org/example/GroceryItemApp.java/
+-Pathway For Interface Blueprint: /src/main/java/org/example/GroceryItem.java 
 
 
